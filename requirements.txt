@@ -1,0 +1,7 @@
+torch>=2.1.0
+transformers==4.37.2
+accelerate==0.30.0
+datasets==2.18.0
+sentencepiece==0.1.99
+rouge==1.0.1
+# pip install flash-attn --no-build-isolation
